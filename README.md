@@ -2,7 +2,8 @@
 funny ahh console looking tool to make you look like a hacker
 
 # Download
-https://lreamweb.wixsite.com/epik
+[Website](https://lreamweb.wixsite.com/epik)
+[Github]()
 
 # Requirements
 Windows XP - Windows 11
