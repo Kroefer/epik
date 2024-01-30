@@ -21,6 +21,9 @@ just a lil tool
 - not a virus (i hope)
 - coded in batch so it basically works on all windows versions
 
+# Copyright
+- p
+
 # Screenshots
 ![real](https://github.com/Kroefer/epik/assets/104503666/6acab01f-767d-4bfe-a20e-196d87b4bac0)
 ![helpmenu](https://github.com/Kroefer/epik/assets/104503666/32e8937e-7d74-4037-82cd-cc95dd4e6fd6)
