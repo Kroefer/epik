@@ -1,9 +1,17 @@
 # epik
 just a lil tool
 
+## stuffs
+- [Downloads]
+- [Requirements]
+- [Features]
+- [Copyright]
+- [Screenshots]
+- [Dont like a console looking ui and having to type in commands?]
+
 # Download
 - [Website](https://lreamweb.wixsite.com/epik)
-- [Github]()
+- [Github](https://github.com/Kroefer/epik)
 
 # Requirements
 - Windows XP - Windows 11 [epik for linux is found here](https://github.com/Kroefer/epik-gui)
