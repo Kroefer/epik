@@ -6,7 +6,7 @@ just a lil tool
 - [Github]()
 
 # Requirements
-- Windows XP - Windows 11 (epik for linux is found here)[https://github.com/Kroefer/epik-gui]
+- Windows XP - Windows 11 [epik for linux is found here](https://github.com/Kroefer/epik-gui)
 - "epik.bat" needs to be in the same directory as the "data" folder.
 
 # Features
