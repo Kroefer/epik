@@ -40,3 +40,10 @@ just a lil tool
 ![adb](https://github.com/Kroefer/epik/assets/104503666/5073edda-bc09-448b-aa80-134e582baaca)
 ![ddostool](https://github.com/Kroefer/epik/assets/104503666/ea76b825-ba9a-407b-a784-e3823080f23e)
 ![epikupdate](https://github.com/Kroefer/epik/assets/104503666/5eefd2a1-081e-465e-9e63-c382171d890c)
+
+# epikgui
+- are you too lazy to type in commands?
+- are you a linux user?
+- dont like the console lookin ahh "app"?
+then download [epik-gui](https://github.com/Kroefer/epik-gui)
+- its basically epik but with actual UI
