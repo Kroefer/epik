@@ -2,12 +2,12 @@
 just a lil tool
 
 ## stuffs
-- [Downloads]
-- [Requirements]
-- [Features]
-- [Copyright]
-- [Screenshots]
-- [Dont like a console looking ui and having to type in commands?]
+- [Downloads](https://github.com/Kroefer/epik?tab=readme-ov-file#epik)
+- [Requirements](https://github.com/Kroefer/epik?tab=readme-ov-file#requirements)
+- [Features](https://github.com/Kroefer/epik?tab=readme-ov-file#features)
+- [Copyright](https://github.com/Kroefer/epik?tab=readme-ov-file#copyright)
+- [Screenshots](https://github.com/Kroefer/epik?tab=readme-ov-file#screenshots)
+- [Dont like a console looking ui and having to type in commands?](https://github.com/Kroefer/epik?tab=readme-ov-file#epikgui)
 
 # Download
 - [Website](https://lreamweb.wixsite.com/epik)
