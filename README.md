@@ -7,14 +7,14 @@ just a lil tool
 - [Features](https://github.com/Kroefer/epik?tab=readme-ov-file#features)
 - [Copyright](https://github.com/Kroefer/epik?tab=readme-ov-file#copyright)
 - [Screenshots](https://github.com/Kroefer/epik?tab=readme-ov-file#screenshots)
-- [Dont like a console looking ui and having to type in commands?](https://github.com/Kroefer/epik?tab=readme-ov-file#epikgui)
+- [Linux User?](https://github.com/Kroefer/epik?tab=readme-ov-file#linux)
 
 # Download
 - [Website](https://lreamweb.wixsite.com/epik)
 - [Github](https://github.com/Kroefer/epik)
 
 # Requirements
-- Windows XP - Windows 11 [epik for linux is found here](https://github.com/Kroefer/epik-gui)
+- Windows XP - Windows 11 [epik for linux is found here](https://github.com/Kroefer/epik?tab=readme-ov-file#linux)
 - "epik.bat" needs to be in the same directory as the "data" folder.
 
 # Features
@@ -28,16 +28,14 @@ just a lil tool
 - open source
 - not a virus (i hope)
 - coded in batch so it basically works on all windows versions
-- 
-# epikgui
-- are you too lazy to type in commands?
-- are you a linux user and cant run batch files?
-- dont like the console lookin ahh "app"?
-then download [epik-gui](https://github.com/Kroefer/epik-gui)
-- its basically epik but with actual UI
 
 # Copyright
 - use as you wish
+
+# linux
+- download the latest version of wine
+- open the wine command prompt in the directory where "epik.bat" and "data" is located
+- then run: <start epik.bat>
 
 # Screenshots
 ![real](https://github.com/Kroefer/epik/assets/104503666/6acab01f-767d-4bfe-a20e-196d87b4bac0)
