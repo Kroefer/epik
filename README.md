@@ -34,8 +34,8 @@ just a lil tool
 
 # linux
 - download the latest version of wine
-- open the wine command prompt in the directory where "epik.bat" and "data" is located
-- then do: start epik.bat
+- open the wine command prompt in the directory where "epik_linux.bat" and "data" is located
+- then do: start epik_linux.bat
 
 # Screenshots
 ![real](https://github.com/Kroefer/epik/assets/104503666/6acab01f-767d-4bfe-a20e-196d87b4bac0)
