@@ -93,9 +93,9 @@ goto adbs
 :update
 cls
 color 4
-=======
-update
-=======
+echo =======
+echo update
+echo =======
 echo You are running version %version% of epik!
 if '%version%'=='0.0.1' goto yess
 if '%version%'=='0.0.2' goto yess
